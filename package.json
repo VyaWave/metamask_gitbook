@@ -1,0 +1,22 @@
+{
+  "name": "metamaste_gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gitbook serve",
+    "build": "gitbook build"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyaWave/metamast_gitbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VyaWave/metamast_gitbook/issues"
+  },
+  "homepage": "https://github.com/VyaWave/metamast_gitbook#readme"
+}
