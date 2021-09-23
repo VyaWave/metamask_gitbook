@@ -20,7 +20,7 @@
     },
     "insert-logo": {
       "url": "assets/logo.png",
-      "style": "background: none; max-height: 30px; min-height: 30px"
+      "style": "background: none; width: 144px; height: 74px"
     }
 }
 }
