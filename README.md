@@ -1,14 +1,13 @@
 # CryptoForSpeed DOCs
 
-
-
-`格式：The Document （加粗是目录）The Document - the secondary（这是主目录下的二级目录）There are details text（这是目录右侧的内容，要求支持插图）`
-
+<!-- ![avatar](./assets/logo.png) -->
+<img src="./assets/logo.png" alt="图片替换文本" width="288" height="141" align="bottom" />
 
 ## <div id="CryptoForSpeed">CryptoForSpeed</div>
 
-CryptoForSpeed is an NFT-Based Card Game, which brings together eight Auto models such as Tesla and BMW, so that players can enjoy the joy of collecting NFT Auto cards while earning rewards. In a word, Players can obtain CFS token rewards through various play patterns In the game. It should be emphasized that the NFT cards in the CryptoForSpeed are obtained by staking LP. After 60 days, players can release and unstake the LP, which means that the NFT cards are free to some extent! We will launch various peripheral products based on the CryptoForSpeed platform. The players who own NFT cards will get surprises more than expected in the future.
 
+
+CryptoForSpeed is an NFT-Based Card Game, which brings together eight Auto models such as Tesla and BMW, so that players can enjoy the joy of collecting NFT Auto cards while earning rewards. In a word, Players can obtain CFS token rewards through various play patterns In the game. It should be emphasized that the NFT cards in the CryptoForSpeed are obtained by staking LP. After 60 days, players can release and unstake the LP, which means that the NFT cards are free to some extent! We will launch various peripheral products based on the CryptoForSpeed platform. The players who own NFT cards will get surprises more than expected in the future.
 ## <div id="BasedAutoCards">NFT-Based Auto cards</div>
 
 There are 8 brands of CryptoForSpeed. Each brand has a auto model in the early stages. More auto models will be added to the game after the synthetic system has been released. Each auto model called Auto card has a different speed and HashPower,  which represents the ability of it to mining CFS tokens.
@@ -88,11 +87,7 @@ CryptoForSpeed is a global team based in UK, Singapore, United States, and Japan
 
 ## <div id="RoadMap">RoadMap</div>
 
-补充中
-
 ## <div id="Q&A">Q&A</div>
-
-补充中
 
 Lists of key words：
 

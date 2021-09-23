@@ -1,0 +1,26 @@
+{
+  "title": "CryptoForSpeed DOCs",
+  "plugins": [
+    "theme-comscore",
+    "search",
+    "sharing",
+    "back-to-top-button",
+    "chapter-fold",
+    "insert-logo"
+  ],
+
+  "links" : {
+      "sidebar" : {
+          "Home" : "https://www.baidu.com"
+      }
+  },
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    },
+    "insert-logo": {
+      "url": "assets/logo.png",
+      "style": "background: none; max-height: 30px; min-height: 30px"
+    }
+}
+}
