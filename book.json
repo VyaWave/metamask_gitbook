@@ -10,9 +10,6 @@
   ],
 
   "links" : {
-      "sidebar" : {
-          "Home" : "https://www.baidu.com"
-      }
   },
   "pluginsConfig": {
     "theme-default": {
